@@ -49,7 +49,7 @@ function Register() {
       <div className="auth-left">
 
         <div className="auth-brand">
-          <div className="brand-icon">E</div>
+          <div className="brand-icon"></div>
           <span>EmployeeHub</span>
         </div>
 
